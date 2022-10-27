@@ -1,0 +1,130 @@
+
+body {
+  font-size: 50px;
+}
+
+.data {
+  max-width: 87%;
+  margin: 0 auto;
+}
+
+h1 {
+    padding: 20px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    border-radius: 50px;
+    max-width: 42%;
+    margin: 30px auto;
+    background-color: whitesmoke;
+    color: black;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+}
+
+
+h2 {
+  font-weight: lighter;
+  font-size: 500px;
+  color: rgb(255, 255, 255);
+  align-content: center;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 200px;
+  color: rgb(255, 255, 255);
+  align-content: center;
+  text-align: center;
+  max-width: 42%;
+}
+
+body {
+  background-color: grey;
+}
+
+img {
+  width: 350px;
+  border-radius: 110px;
+}
+
+div {
+  text-align: center;
+}
+
+.container {
+  /*border: solid gray 1px;*/
+  margin: 5px;
+  padding: 20px;
+  border-radius: 66px;
+  img-align: center;
+}
+
+
+
+.boite1 {
+  border: solid white 2px;
+  margin: 9px;
+  padding: 15px;
+  color: rgb(255, 255, 255);
+  width: 25px;
+}
+
+.boite2 {
+  border: solid white 2px;
+  margin: 5px;
+  padding: 15px;
+  color: rgb(255, 255, 255);
+}
+
+.pers {
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  column-gap: 25px;
+  row-gap: 25px;
+  text-align: center;
+}
+
+.flexbox {
+  display: flex;
+  justify-content: center;
+}
+
+.fab {
+  font-weight: 400;
+  font-size: 25px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  outline: none !important;
+  outline-offset: 0 !important;
+
+
+{
+.grid {
+  display: block;
+}
+}
+
+.card-white {
+  text-align: center;
+  font-size: 200px;
+}
+
+.btn-red{
+  background-color: darkred;
+  color: whitesmoke;
+  padding: 15px 20px;
+  border-radius: 30px;
+  text-align: center;
+  width: 50%;
+
+}
+
+  
